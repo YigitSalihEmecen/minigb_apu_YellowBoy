@@ -1,0 +1,9 @@
+{
+  "name": "minigb_apu",
+  "version": "0.0.0",
+  "srcFilter": [
+    "+<*>",
+    "-<benchmark*>",
+    "-<benchmark-rp2040*>"
+  ]
+}
